@@ -1,0 +1,22 @@
+{
+  "name": "coder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-css": "node-sass --include-path scss scss/ --output css/",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AperezA28/Proyecto-Final-Librado-Perez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AperezA28/Proyecto-Final-Librado-Perez/issues"
+  },
+  "homepage": "https://github.com/AperezA28/Proyecto-Final-Librado-Perez#readme",
+  "description": ""
+}

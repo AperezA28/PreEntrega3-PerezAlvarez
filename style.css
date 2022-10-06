@@ -46,7 +46,7 @@ body {
 }
 
 .mapa {
-    background: url(mapa.PNG);
+    background: url(https://i.blogs.es/b4dd5c/maps/1366_2000.png);
     width:100%;
     height:500px;
 }
@@ -86,6 +86,7 @@ body {
 #bg-contactos{
     position:relative;
     top: -130px;
+    background-color: #1b4e4b;
 } 
 
  #seccion-contacto{
